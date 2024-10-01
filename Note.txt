@@ -1,0 +1,18 @@
+1) In Project Location Type cmd then enter .Then python main.py-->Enter
+2) Open Xampp Server--->Start Apache and Mysql..Click Mysql--Admin
+3)Copy link (http://localhost/wordpress/wp-admin) and paste in browser
+4)If you are a new user Register Fisrt  otherwise  Login Directly.
+Email: stockmarketpred@gmail.com
+Pass: Samplepass@123
+5) Admin dashboard--Users Username(Click View)
+
+
+
+Algorithm
+ Random Forset
+ LinearRegression
+ ARIMA
+ LSTM
+
+
+Gopichand@123
